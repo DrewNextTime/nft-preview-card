@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.contain {
+    font-family: 'Outfit', sans-serif;
+    color: white;
+    background-color: hsl(216, 50%, 16%);
+}
