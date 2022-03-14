@@ -32,6 +32,17 @@ html {
 
 .eth {
     width: 50%;
+    color: hsl(178, 100%, 50%);
+}
+
+.face {
+    width: 20px;
+    height: 20px;
+}
+
+.blue {
+    font-weight: 400px;
+    color: hsl(215, 51%, 70%)
 }
 
 .timelft {
